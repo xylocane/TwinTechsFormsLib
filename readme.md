@@ -6,7 +6,7 @@ We make these freely available to the community under the apache License [http:/
 
 We are in the process of adding more controls to this library, and will shortly create an official nuget package.
 
-This Lirbary is the result of a series of blog posts I wrote describing how to push Xamarin Forms to it's limits: h[ttp://blog.twintechs.com/advanced-xamarin-forms-techniques-for-flexible-and-performant-cross-platform-apps-part-1.-xamarin-forms-how-far-can-we-push-it](http://blog.twintechs.com/advanced-xamarin-forms-techniques-for-flexible-and-performant-cross-platform-apps-part-1.-xamarin-forms-how-far-can-we-push-it)
+This Lirbary is the result of a series of blog posts I wrote describing how to push Xamarin Forms to it's limits: h[ttp://blog.twintechs.com/advanced-xamarin-forms-techniques-for-flexible-and-performant-cross-platform-apps-part-1.-xamarin-forms-how-far-can-we-push-it](http://blog.twintechs.com/advanced-xamarin-forms-techniques-for-flexible-and-performant-cross-platform-apps-part-1)
 
 ##Xamarin Forms
 We will contribute some of these controls to the xamarin forms project once we do more testing/development and have more time to integrate them. We figured it'd be great to get these out there for others to use, and build their ideas upon.
@@ -141,4 +141,6 @@ If you can't work out how to use them from the samples though, well.. you probab
 
 I will add they are WIP and that some of the android features are experimental. You can expect crashes and memory leaks. However, if you are brave enough to give them ago, we are actively supporting and developing them and will get onto your bugs in a speedy fashion. We will also lovingly aceept your pull requests :)
 
+## SvgImage (fork)
 
+A Xamarin.Forms SvgImage variant that offers stretchable 9-slice support of SVG image rendering. For usage, background information, and more, check out the dedicated [TwinTechs.SvgImage readme](https://github.com/twintechs/TwinTechsFormsLib/tree/master/TwinTechsForms/TwinTechsForms.SvgImage).
